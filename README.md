@@ -1,6 +1,6 @@
 # Rachel Firmware
 
-**MicroPython firmware** for **Raspberry Pi Pico 2 W**. Wi‑Fi, DHT11, LEDs, I2C LCD, and a small HTTP API with **Microdot**.
+This project is [Rachel](https://github.com/BlackIQ/Rachel)'s **MicroPython firmware** for **Raspberry Pi Pico 2 W**. Wi‑Fi, DHT11, LEDs, I2C LCD, and a small HTTP API with **Microdot**.
 
 The backend (and MCP server) calls this device for temperature/humidity, LED control, and memory stats and other stuff.
 
